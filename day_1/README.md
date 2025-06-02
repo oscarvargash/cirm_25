@@ -7,8 +7,12 @@
 To start this tutorial you need to be logged in the Linux virtual machine
 [vlinux.humboldt.edu](https://vlinux.humboldt.edu/) please use your Cal Poly Humboldt credentials
 
-For best visualization we recomend of the virtual machine:
-- Change the remote desktop to fit into the window
+
+- log-in with your credentials
+
+- Change the remote desktop to fit into the window (for best visualization experience)
+
+- Click on "Crete a new virtual desktop"
 
 The virtual machine is a virtual Linux computer runing in a server through the PC you are using. Linux based systems are typically used in bioinformatic environments, hence the importance of getting familiarized with them.
 
@@ -273,7 +277,7 @@ cd personal
 mv log.txt log_01.txt
 ```
 
-Finally we can make a copy of `log_001.txt` to create a second file:
+Finally we can make a copy of `log_01.txt` to create a second file:
 
 ```
 cp log_01.txt log_02.r
@@ -364,7 +368,7 @@ rm *.r
 > Remove your flag if you are good to continue ![](img/green.jpeg)
 
 
-# Day one, afternoon, managing files and using programs
+# Day one, managing files and using programs
 
 To start this tutorial you need to be logged in the Linux virtual machine
 [vlinux.humboldt.edu](https://vlinux.humboldt.edu/)
@@ -383,7 +387,7 @@ Please download in your machine a compressed file with the data in the folder na
 
 ```
 cd ~Documents/day_01
-wget https://github.com/oscarvargash/cirm_24/raw/main/day_1/files/files.zip
+wget https://github.com/oscarvargash/cirm_25/raw/main/day_1/files/files.zip
 ```
 
 As you can see, this is a compressed file. We can decompressed by
@@ -399,7 +403,7 @@ We can remove now the `.zip` file. How can we remove this files from our folder?
   <summary>Click to see an answer!</summary>
   
 ```
-rm *.zip
+rm files.zip
 ```
 
 </details>
@@ -448,7 +452,7 @@ Let's look at the manual
 man grep
 ```
 
-The following line of code is then able to count the number of `@` i nour file, and therefore the number of sequences in our file:
+The following line of code is then able to count the number of `@` in our file, and therefore the number of sequences in our file:
 
 ```
 grep -c "@" L008_R1.fastq

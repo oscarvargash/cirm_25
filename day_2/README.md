@@ -396,7 +396,7 @@ I guess you have to use your own column names…
 
 > Remove your flag if you are good to continue ![](img/green.jpeg)
 
-# Day 2 bonus, using Dplyr, basic stats, and loops
+# Day 2, using Dplyr, basic stats, and loops
 
 The power of coding relies heavily on being able to analyze large datasets with few lines of code. A good package to work with table-like datasets is dplyr. We will import a dataset of plant occurrences and then calculate several statistics on those.
 
