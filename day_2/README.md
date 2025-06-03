@@ -254,13 +254,13 @@ labeled plot. Type plot(variable) to create a scatter plot of your variables aga
 ### Task 5: 
 To explore the different types of elements in R, you will explore some functions on your own. Feel free to google and talk to your peers to complete this task. Make sure you understand the main difference between the classes and functions mentioned here. In your own words explain what these functions do: 
 
-is.character() 
-as.character() 
-is.numeric() 
-as.numeric() 
-is.logical() 
+is.character()  
+as.character()  
+is.numeric()  
+as.numeric()  
+is.logical()  
 as.logical() 
-class() 
+class()  
 
 Test them on the variables you have created so far: Vector1, Vector2, this.is.a.variable.containing.log.values.for.vector1, list_data. What types of elements have you worked with so far? 
 
