@@ -59,10 +59,10 @@ Both PC and Macintosh versions of R can be downloaded from the [R home page] (ht
 * Keep a notebook with these explanations: ‘File_tutorial2.R line 102: this function sums all the numbers in a vector’. 
 
 ### Some R resources
-[Useful R Reference Cheatsheet by Tom Short](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
-[Basic skills by Quick R](https://www.statmethods.net)
-[Advanced skills Cheatsheet by Arianne Colton and Sean Chen](https://rstudio.com/wp-content/uploads/2016/02/advancedR.pdf)
-[Other resources from YaRrr! The pirate’s guide to R](https://bookdown.org/ndphillips/YaRrr/r-resources.html)
+[Useful R Reference Cheatsheet by Tom Short](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)  
+[Basic skills by Quick R](https://www.statmethods.net)  
+[Advanced skills Cheatsheet by Arianne Colton and Sean Chen](https://rstudio.com/wp-content/uploads/2016/02/advancedR.pdf)  
+[Other resources from YaRrr! The pirate’s guide to R](https://bookdown.org/ndphillips/YaRrr/r-resources.html)  
 
 ## What does it look like and what does it all mean
 ![Fig1](files/Fig1_CIRMBioinf.jpeg) 
